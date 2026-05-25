@@ -1,0 +1,6 @@
+{
+  "name": "PrepNexus",
+  "description": "Your Ultimate AI Study Command Center - PrepNexus combines AI study planner, doubt solver, revision, mock tests, and smart roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
